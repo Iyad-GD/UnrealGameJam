@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UpgradeLog.htm
+UpgradeLog2.htm
+UpgradeLog3.htm
